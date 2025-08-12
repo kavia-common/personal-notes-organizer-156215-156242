@@ -1,0 +1,14 @@
+<resources>
+    <!-- Provided palette -->
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryVariant">#1565C0</color>
+    <color name="colorSecondary">#424242</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
+    <!-- Surfaces -->
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#000000</color>
+    <color name="divider">#1F000000</color>
+</resources>
